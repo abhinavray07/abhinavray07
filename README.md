@@ -1,16 +1,89 @@
-## Hi there 👋
+# Hi there, I'm Abhinav Ray 👋
 
-<!--
-**abhinavray07/abhinavray07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### B.Tech ECE Student @ IIIT Hyderabad | Software & Embedded Systems Enthusiast
 
-Here are some ideas to get you started:
+I'm a first-year Electronics and Communication Engineering student at IIIT Hyderabad, passionate about building projects that bridge hardware and software. I enjoy solving problems through code and creating practical applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 🎓 Pursuing **B.Tech in ECE** at **IIIT Hyderabad** (Class of 2029)
+- 💻 Currently learning: **C, Python, Data Structures, Digital Systems**
+- 🔭 Exploring: **Embedded Systems, CLI Applications, System Programming**
+- 🌱 Completed: **CS50P (Harvard's Introduction to Programming with Python)**
+- 📍 Based in: **Hyderabad, India**
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:**  
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**Tools & Technologies:**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
+**Concepts:**  
+Data Structures • File I/O • Memory Management • Modular Programming • Digital Systems • Embedded Systems
+
+---
+
+## 📂 Featured Projects
+
+### 🎵 [C-Unplugged](https://github.com/abhinavray07/C-Unplugged)
+A feature-rich CLI-based music player with album management and playlist controls
+- Implemented circular doubly-linked list for seamless playlist navigation
+- Cross-platform audio playback support (Windows/Linux/macOS)
+- Persistent storage with file I/O operations
+- **Tech:** C, Data Structures, File Systems
+
+### 🎮 Twixt Game
+CLI-based strategy game inspired by Twixt
+- Game logic and rules implementation
+- Interactive command-line interface
+- **Tech:** C, Algorithms
+
+### 🚗 Flex Sensor Controlled Car
+Hardware project using flex sensors for gesture-based vehicle control
+- Integrated flex sensors with motor control system
+- Real-time gesture recognition
+- **Tech:** Arduino, C, Electronics
+
+### 🏦 Bank Management System
+CLI-based banking application (CS50P Final Project)
+- Account management and transaction processing
+- Data persistence and validation
+- **Tech:** Python, File I/O, OOP
+
+---
+
+## 📊 GitHub Stats
+
+![Abhinav's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhinavray07&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavray07&layout=compact&theme=radical)
+
+---
+
+## 🎯 What I'm Looking For
+
+I'm actively seeking **software development internships** and opportunities to work on:
+- Systems programming and low-level development
+- Embedded systems projects
+- Full-stack development
+- Open-source contributions
+
+---
+
+## 📫 Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinavray07)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhinavray07)
+
+---
+
+💡 *"Learning by building, one project at a time."*
