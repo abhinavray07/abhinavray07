@@ -61,13 +61,7 @@ CLI-based banking application (CS50P Final Project)
 
 ---
 
-## 📊 GitHub Stats
 
-![Abhinav's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhinavray07&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavray07&layout=compact&theme=radical)
-
----
 
 ## 🎯 What I'm Looking For
 
