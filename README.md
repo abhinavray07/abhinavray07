@@ -34,26 +34,26 @@ Data Structures • File I/O • Memory Management • Modular Programming • D
 
 ## 📂 Featured Projects
 
-### 🎵 [C-Unplugged](https://github.com/abhinavray07/C-Unplugged)
+### 🎵 [CUnplugged](https://github.com/abhinavray07/CUnplugged)
 A feature-rich CLI-based music player with album management and playlist controls
 - Implemented circular doubly-linked list for seamless playlist navigation
 - Cross-platform audio playback support (Windows/Linux/macOS)
 - Persistent storage with file I/O operations
 - **Tech:** C, Data Structures, File Systems
 
-### 🎮 Twixt Game
+### 🎮 [Twixt Game](https://github.com/abhinavray07/TwixtGame)
 CLI-based strategy game inspired by Twixt
 - Game logic and rules implementation
 - Interactive command-line interface
 - **Tech:** C, Algorithms
 
-### 🚗 Flex Sensor Controlled Car
+### 🚗 [Flex Sensor Controlled Car](https://github.com/abhinavray07/FlexSensorCar)
 Hardware project using flex sensors for gesture-based vehicle control
 - Integrated flex sensors with motor control system
 - Real-time gesture recognition
 - **Tech:** Arduino, C, Electronics
 
-### 🏦 Bank Management System
+### 🏦 [Bank Management System](https://github.com/abhinavray07/BankManagementSystem)
 CLI-based banking application (CS50P Final Project)
 - Account management and transaction processing
 - Data persistence and validation
