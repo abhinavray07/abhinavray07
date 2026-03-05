@@ -17,10 +17,12 @@ I'm a first-year Electronics and Communication Engineering student at IIIT Hyder
 ---
 
 ## Tech stack
+
+**Languages:**  
+C • Python
+
 **Tools & Technologies:**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+Git • Linux • Arduino
 
 **Concepts:**  
 Data Structures • File I/O • Memory Management • Modular Programming • Digital Systems • Embedded Systems
